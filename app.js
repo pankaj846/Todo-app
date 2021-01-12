@@ -3,7 +3,6 @@ const express = require("express");
 const hbs = require('hbs');
 const mongoose = require("mongoose")
 const bodyParser = require("body-parser");
-const date = require(__dirname + "/date.js");
 const app = express();
 const port = process.env.PORT || 3000;
 
