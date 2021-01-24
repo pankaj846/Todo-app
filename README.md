@@ -36,7 +36,7 @@ npm install
 After installing all the dependencies start the server -
 
 ```
-node src/index.js
+node app.js
 ```
 ## This project is available on heroku :-
 [Website](https://pankaj-todo-app.herokuapp.com/)
